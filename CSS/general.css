@@ -1,0 +1,17 @@
+/* Targets all of the paragraph */
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* Sets default fonts that is inherited to all the page */
+body {
+    font-family: Roboto, Arial;
+    margin: 0;
+
+    /* Padding used to avoid Nav bar and Sidebar */
+    padding-top: 74px;
+    padding-left: 94px;
+    padding-right: 24px;
+    background-color: rgb(248, 248, 248);
+}
